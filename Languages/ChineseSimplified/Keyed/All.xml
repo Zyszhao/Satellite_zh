@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!---->
+  <SpaceExpansion.Building_SatelliteComputerCore.EnergyGeneration>卫星发电量： {0} W/天</SpaceExpansion.Building_SatelliteComputerCore.EnergyGeneration>
+  <!---->
+  <SpaceExpansion.Building_SatelliteCollector.DropPod>运输舱已经从轨道上到达。</SpaceExpansion.Building_SatelliteCollector.DropPod>
+  <SpaceExpansion.Building_SatelliteCollector.CantFindCell>未找到着陆区。无法从轨道运输物资。安装飞船着陆信标。</SpaceExpansion.Building_SatelliteCollector.CantFindCell>
+  <!---->
+  <SpaceExpansion.Building_Novax.PowerOn>接收能量</SpaceExpansion.Building_Novax.PowerOn>
+  <SpaceExpansion.Building_Novax.PowerOff>接收能量</SpaceExpansion.Building_Novax.PowerOff>
+  <SpaceExpansion.Building_Novax.PowerDesc>启用接收能量将会禁用其他“新星”中心的此功能，这座“新星”中心将会接受所有卫星发送的能量。</SpaceExpansion.Building_Novax.PowerDesc>
+  <!---->
+  <SpaceExpansion.Building_Novax.OpenLabel>卫星管理</SpaceExpansion.Building_Novax.OpenLabel>
+  <SpaceExpansion.Building_Novax.OpenDesc>任务控制中心。</SpaceExpansion.Building_Novax.OpenDesc>
+  <!---->
+  <SpaceExpansion.Satellite.NullName>输入名称。</SpaceExpansion.Satellite.NullName>
+  <SpaceExpansion.Satellite.DefaultSatelliteName>新卫星 {0}</SpaceExpansion.Satellite.DefaultSatelliteName>
+  <SpaceExpansion.Satellite.SatelliteDestroyed>卫星 {0} 因受到过大伤害而被毁。</SpaceExpansion.Satellite.SatelliteDestroyed>
+  <SpaceExpansion.Satellite.StartLanding>卫星 {0} 开始于太空港着陆。</SpaceExpansion.Satellite.StartLanding>
+  <!---->
+  <SpaceExpansion.WindowNovax.Components>部件</SpaceExpansion.WindowNovax.Components>
+  <SpaceExpansion.WindowNovax.HitPoints>生命值： {0} / {1} ({2}%)</SpaceExpansion.WindowNovax.HitPoints>
+  <SpaceExpansion.WindowNovax.Energy>能量 {0} / {1} W ({2}%)</SpaceExpansion.WindowNovax.Energy>
+  <SpaceExpansion.WindowNovax.MaxEnergy>最大储能： {0} W</SpaceExpansion.WindowNovax.MaxEnergy>
+  <SpaceExpansion.WindowNovax.EnergyGeneration>发电量： {0} W/天</SpaceExpansion.WindowNovax.EnergyGeneration>
+  <SpaceExpansion.WindowNovax.SatelliteOrbitalBombarder>弹药量： {0}</SpaceExpansion.WindowNovax.SatelliteOrbitalBombarder>
+  <SpaceExpansion.WindowNovax.Communication>通信</SpaceExpansion.WindowNovax.Communication>
+  <SpaceExpansion.WindowNovax.IsNotCommunicator>无法通信。卫星结构上缺少通信器。</SpaceExpansion.WindowNovax.IsNotCommunicator>
+  <SpaceExpansion.WindowNovax.NullSpaceships>你没有可以联系的人。</SpaceExpansion.WindowNovax.NullSpaceships>
+  <SpaceExpansion.WindowNovax.ResearchSpeed>研究速度： {0}</SpaceExpansion.WindowNovax.ResearchSpeed>
+  <SpaceExpansion.WindowNovax.NullSettlements>你没有定居点。</SpaceExpansion.WindowNovax.NullSettlements>
+  <!---->
+  <SpaceExpansion.CompSatelliteController.ChooseSatelliteDesc>选择要控制的卫星。</SpaceExpansion.CompSatelliteController.ChooseSatelliteDesc>
+  <SpaceExpansion.CompSatelliteController.NullSatellite>无卫星</SpaceExpansion.CompSatelliteController.NullSatellite>
+  <SpaceExpansion.CompSatelliteController.NullSatellites>没有可控制的卫星。</SpaceExpansion.CompSatelliteController.NullSatellites>
+  <SpaceExpansion.CompSatelliteController.LaserBeamLabel>激光束</SpaceExpansion.CompSatelliteController.LaserBeamLabel>
+  <SpaceExpansion.CompSatelliteController.LaserBeamDesc>从卫星上发射的致命激光束。</SpaceExpansion.CompSatelliteController.LaserBeamDesc>
+  <SpaceExpansion.CompSatelliteController.NotEnoughEnergy>能量不足。需求 {0} W，可用 {1} W。</SpaceExpansion.CompSatelliteController.NotEnoughEnergy>
+  <SpaceExpansion.CompSatelliteController.OrbitalBombarderLabel>轰炸 ({0})</SpaceExpansion.CompSatelliteController.OrbitalBombarderLabel>
+  <SpaceExpansion.CompSatelliteController.OrbitalBombarderDesc>来自轨道的炮弹轰炸。每次轰炸最多消耗30发炮弹。</SpaceExpansion.CompSatelliteController.OrbitalBombarderDesc>
+  <SpaceExpansion.CompSatelliteController.NotEnoughShells>无可用弹药。</SpaceExpansion.CompSatelliteController.NotEnoughShells>
+  <SpaceExpansion.CompSatelliteController.LandingLabel>着陆种</SpaceExpansion.CompSatelliteController.LandingLabel>
+  <SpaceExpansion.CompSatelliteController.LandingDesc>只有在有可用的飞船着陆信标的太空港才能着陆。</SpaceExpansion.CompSatelliteController.LandingDesc>
+  <SpaceExpansion.CompSatelliteController.NoSpaceportsAvailable>没有可用的太空港。</SpaceExpansion.CompSatelliteController.NoSpaceportsAvailable>
+  <!---->
+  <SpaceExpansion.IncidentWorker_SpaceshipArrival.SpaceshipArrival>{0} 离你的轨道不远。它似乎属于古代人，愿意与你交易。它将在轨道上停留一天，之后它将继续移动。</SpaceExpansion.IncidentWorker_SpaceshipArrival.SpaceshipArrival>
+  <!---->
+  <SpaceExpansion.IncidentWorker_SatelliteDamage.SatelliteDamage>卫星 {0} 在与空间碎片的碰撞中受损。当前生命值： {1}. 建议着陆卫星进行维修。</SpaceExpansion.IncidentWorker_SatelliteDamage.SatelliteDamage>
+  <!---->
+  <SpaceExpansion.WindowSpaceship.Cost>花费： {0}</SpaceExpansion.WindowSpaceship.Cost>
+  <SpaceExpansion.WindowSpaceship.TradeItems>交易请求</SpaceExpansion.WindowSpaceship.TradeItems>
+  <SpaceExpansion.WindowSpaceship.NullStock>没有可供出售的物品</SpaceExpansion.WindowSpaceship.NullStock>
+  <SpaceExpansion.WindowSpaceship.Settlement>定居点 {0}</SpaceExpansion.WindowSpaceship.Settlement>
+  <SpaceExpansion.WindowSpaceship.Buy>购买</SpaceExpansion.WindowSpaceship.Buy>
+  <SpaceExpansion.WindowSpaceship.Reset>重置</SpaceExpansion.WindowSpaceship.Reset>
+  <SpaceExpansion.WindowSpaceship.EmptyStock>未选择商品。</SpaceExpansion.WindowSpaceship.EmptyStock>
+  <SpaceExpansion.WindowSpaceship.NotEnoughSilver>没有足够的白银。</SpaceExpansion.WindowSpaceship.NotEnoughSilver>
+  <SpaceExpansion.WindowSpaceship.SilverCost>商品花费： {0}</SpaceExpansion.WindowSpaceship.SilverCost>
+  <SpaceExpansion.WindowSpaceship.PlayerSilver>定居点的白银： {0}</SpaceExpansion.WindowSpaceship.PlayerSilver>
+  <SpaceExpansion.WindowSpaceship.DealDone>交易完成。</SpaceExpansion.WindowSpaceship.DealDone>
+  <!---->
+  <SpaceExpansion.Spaceship.SpaceshipLeave>{0} 离开轨道并继续运行。</SpaceExpansion.Spaceship.SpaceshipLeave>
+  <!---->
+  <SpaceExpansion.SatelliteUtility.LowGeneration>卫星无法在发电量为负的情况下起飞。</SpaceExpansion.SatelliteUtility.LowGeneration>
+  <SpaceExpansion.SatelliteUtility.SizeFail>卫星无法在任一方向上延展 {0} 格子。</SpaceExpansion.SatelliteUtility.SizeFail>
+  <!---->
+
+</LanguageData>

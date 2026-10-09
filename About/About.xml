@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>Satellite_zh</name>
+	<author>Zyszhao</author>
+	<supportedVersions>
+		<li>1.4</li>
+	</supportedVersions>
+	<packageId>zyszhao.satellite.zhhans</packageId>
+	<loadAfter>
+		<li>dimonsever000.spaceexpansion.specific</li>
+	</loadAfter>
+	<description>
+	[h1][b]Satellite [1.4] (卫星)的简体中文汉化包，请在原mod之后加载。[/b][/h1]
+
+	翻译：
+	-简中：Zyszhao
+	
+	[h1]简介：[/h1]
+	-加入了卫星系统，可允许你建造自己的人造卫星，并允许你与其他卫星交易。（不会在SOS2/Rimnauts 2的太空中显示）
+
+——————————————————————————
+加入“Rimworld边缘世界”QQ频道(搜索频道号：4b65yw31cx)，与其他玩家一同畅所欲言，并获取更多汉化发布、更新动态。
+——————————————————————————
+个人汉化，初次尝试，非喜勿喷，欢迎改正！
+——————————————————————————
+	</description>
+</ModMetaData>

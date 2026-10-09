@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <SatelliteBeam.label>卫星结构梁</SatelliteBeam.label>
+  <SatelliteBeam.description>一根用来支撑人造卫星其他部分的结构梁，包括通信、电力和材料运输所需的所有线缆和运输管道。在其周围能建造卫星。</SatelliteBeam.description>
+
+  <SatelliteEngine.label>卫星发动机</SatelliteEngine.label>
+  <SatelliteEngine.description>一种能够使卫星保持在围绕行星的轨道上并改变其轨道的发动机。</SatelliteEngine.description>
+
+  <SatelliteSensorCluster.label>卫星集成传感器</SatelliteSensorCluster.label>
+  <SatelliteSensorCluster.description>一个多功能的传感器模块，能够跨越虚空扫描和传递信号进行通讯、威胁探测、欺骗、干扰等行为。</SatelliteSensorCluster.description>
+
+  <SatelliteSolarGenerator.label>卫星太阳能板</SatelliteSolarGenerator.label>
+  <SatelliteSolarGenerator.description>在太空中利用太阳光来发电。</SatelliteSolarGenerator.description>
+
+  <SatelliteComputerCore.label>卫星电脑核心</SatelliteComputerCore.label>
+  <SatelliteComputerCore.description>一个机械核心，装载有类似于超人一般的人工智能，可以带领星际飞船在数十年的星际航行里经受任何挑战。</SatelliteComputerCore.description>
+
+  <SatellitePowerTranslator.label>能量传输器</SatellitePowerTranslator.label>
+  <SatellitePowerTranslator.description>用于与“新星”中心连接的能量传输器。允许你向边缘世界输送能量，带有传输器的卫星不储存能量。</SatellitePowerTranslator.description>
+
+  <SatelliteBeamFocuser.label>聚光器</SatelliteBeamFocuser.label>
+  <SatelliteBeamFocuser.description>致命的能量束聚焦器。允许卫星使用激光束攻击目标。增加聚光器的数量会增加激光束的数量和能量需求。</SatelliteBeamFocuser.description>
+
+  <SatelliteOrbitalBombarder.label>轨道轰炸器</SatelliteOrbitalBombarder.label>
+  <SatelliteOrbitalBombarder.description>装有迫击炮弹的弹舱</SatelliteOrbitalBombarder.description>
+
+  <SatelliteCommunicator.label>通信器</SatelliteCommunicator.label>
+  <SatelliteCommunicator.description>用于与航天器通信的通信设备。</SatelliteCommunicator.description>
+
+  <SatelliteCollector.label>空间碎片收集器</SatelliteCollector.label>
+  <SatelliteCollector.description>一种先进的空间碎片收集器，可以捕获小块空间碎片并将其送回地球。卫星每15天发送一次货物。需要一个可用的着陆区。</SatelliteCollector.description>
+
+  <SatelliteScienceModule.label>科研模块</SatelliteScienceModule.label>
+  <SatelliteScienceModule.description>能量充足的卫星上的科研模块可以提高20%的研究速度。上限100%。</SatelliteScienceModule.description>
+
+  <CenterNovax.label>“新星”中心</CenterNovax.label>
+  <CenterNovax.description>卫星空间导航的中心。</CenterNovax.description>
+
+</LanguageData>

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <SatelliteSkyfaller.label>卫星（离开中）</SatelliteSkyfaller.label>
+  <SatelliteLanding.label>卫星（着陆中）—</SatelliteLanding.label>
+  <CrashedSatellitePart.label>失事卫星部件（坠落中）</CrashedSatellitePart.label>
+
+
+</LanguageData>

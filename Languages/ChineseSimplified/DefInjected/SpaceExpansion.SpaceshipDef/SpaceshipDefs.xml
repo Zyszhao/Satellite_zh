@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <MiningSatellite.label>采矿卫星</MiningSatellite.label>
+  <MiningSatellite.description>古代人为获取资源而制造的卫星。它仍然在离线工作，并按照算法去响应消息。</MiningSatellite.description>
+
+  <SpaceBarge.label>太空驳船</SpaceBarge.label>
+  <SpaceBarge.description>一艘漂浮在恒星系统中进行交易的大型太空驳船。</SpaceBarge.description>
+
+  <Warship.label>太空战舰</Warship.label>
+  <Warship.description>一艘携带巨大武器并定期与行星定居点进行交易的军用宇宙飞船。</Warship.description>
+
+  <GeneArk.label>基因方舟</GeneArk.label>
+  <GeneArk.description>巨大的基因库容器。</GeneArk.description>
+
+  <HumanitarianShip.label>人道主义援助船</HumanitarianShip.label>
+  <HumanitarianShip.description>一艘向陷入困境的星球投放人道主义物资的宇宙飞船。</HumanitarianShip.description>
+
+
+</LanguageData>

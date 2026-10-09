@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <SpaceshipArrival.label>太空船到达</SpaceshipArrival.label>
+  <SatelliteDamage.label>卫星损坏</SatelliteDamage.label>
+
+  <SatelliteCrashlanding.label>卫星坠毁</SatelliteCrashlanding.label>
+  <SatelliteCrashlanding.letterText>小心！一颗未知的古代卫星正在你的定居点上空坠毁。它已在轨道上运行了很长时间，显然向下坠落了许多年。</SatelliteCrashlanding.letterText>
+
+
+</LanguageData>

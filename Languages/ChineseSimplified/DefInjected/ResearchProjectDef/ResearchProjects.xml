@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <SatelliteEngineering.label>卫星工程</SatelliteEngineering.label>
+  <SatelliteEngineering.description>制造人造卫星所用的基本模块。</SatelliteEngineering.description>
+
+  <SatelliteCommunicator.label>空间通信模块</SatelliteCommunicator.label>
+  <SatelliteCommunicator.description>卫星所用的空间通信模块。带有通信模块的卫星可以与周围的航天器进行通信。</SatelliteCommunicator.description>
+
+  <SatelliteScienceModule.label>科研模块</SatelliteScienceModule.label>
+  <SatelliteScienceModule.description>卫星所用的科研模块。科研模块可加快研究速度。</SatelliteScienceModule.description>
+
+  <SatelliteCollector.label>空间碎片收集器</SatelliteCollector.label>
+  <SatelliteCollector.description>卫星所用的空间碎片收集器。空间碎片收集器可收集空间碎片并将其送回边缘世界。</SatelliteCollector.description>
+
+  <SatellitePowerTranslator.label>能量传输器</SatellitePowerTranslator.label>
+  <SatellitePowerTranslator.description>卫星所用的能量传输器。能量传输器可将卫星的所有能量发送到边缘世界。</SatellitePowerTranslator.description>
+
+  <SatelliteWeapons.label>能量武器</SatelliteWeapons.label>
+  <SatelliteWeapons.description>卫星所用的武装模块。</SatelliteWeapons.description>
+
+  <SatelliteBeamFocuser.label>聚光器</SatelliteBeamFocuser.label>
+  <SatelliteBeamFocuser.description>一种聚光器，可以收集能量，使用激光束打击目标。</SatelliteBeamFocuser.description>
+
+  <SatelliteOrbitalBombarder.label>轨道轰炸器</SatelliteOrbitalBombarder.label>
+  <SatelliteOrbitalBombarder.description>一种弹舱，用于轰炸目标。</SatelliteOrbitalBombarder.description>
+
+
+</LanguageData>
